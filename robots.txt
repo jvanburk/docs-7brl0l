@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-f760a1.indocuan-vip.sbs/sitemap.xml
